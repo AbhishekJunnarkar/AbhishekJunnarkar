@@ -1,7 +1,7 @@
 
 # <span style="font-family: 'Lucida Console';">Abhishek Junnarkar</span>
 
-## Java-AWS Cloud Solution Architect and Cloud Migration lead
+## Java-Python-AWS Cloud Solution Architect and Cloud Migration lead
 
 As an experienced cloud solution architect and technology lead, with demonstrated history of working in the information technology and service industry providing enterprise level technical solutions to large scale, complex and global systems, I would like to provide hands on technical leadership with strong cloud native software development and DevOps expertise to design, develop and deliver key components.
 
