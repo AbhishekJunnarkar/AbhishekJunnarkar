@@ -1,3 +1,17 @@
+### 👋 Hi there! Here's my GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekJunnarkar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJunnarkar&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJunnarkar)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 # <span style="font-family: 'Lucida Console';">Abhishek Junnarkar</span>
 
