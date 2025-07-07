@@ -9,10 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-
-
 # <span style="font-family: 'Lucida Console';">Abhishek Junnarkar</span>
 
 ## Java-Python-AWS Cloud Solution Architect and Cloud Migration lead
@@ -41,7 +37,7 @@ As an experienced cloud solution architect and technology lead, with demonstrate
     - TOGAF 9.0
     - AWS Certified Solution Architect-Associate
     - API Security Architect
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Architecture Certifications`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Developer Certifications`
     - API Product Manager
     - Java Certified
     - API Designer
