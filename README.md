@@ -1,4 +1,4 @@
-### 👋 Hi there! Here's my GitHub stats
+### 👋 Hi there! Here's my AI Projects Collection
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekJunnarkar&show_icons=true&theme=radical)
 
