@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### BRICS Dataset
+
 | Project Title                         | Problem Statement                                              | Dataset / Source    | AI/ML Approach                         | Tools & Tech Stack                       | Key Outcome                                                | GitHub Link                                                            |
 | ------------------------------------- | -------------------------------------------------------------- | ------------------- | -------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
 | BRICS Life Expectancy Predictor       | Predict life expectancy based on GDP, literacy, and population | BRICS dataset (CSV) | Linear Regression, Feature Engineering | Python, Pandas, Scikit-learn, Matplotlib | Model predicts life expectancy with 92% R² score           | *[GitHub](https://github.com/AbhishekJunnarkar/brics-dataset-ai-analysis/tree/main/01_life_expectancy_predictor)* |
