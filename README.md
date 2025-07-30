@@ -9,11 +9,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### NLTK: Natural Language Tool Kit
-This project uses NLTK, a powerful Python library for working with human language data (text). It
+Working on project using NLTK, a powerful Python library for working with human language data (text). It
 covers tasks like tokenization, stopword removal, stemming, and named entity recognition (NER). Ideal for learning basic NLP (Natural Language Processing) techniques.
 
 #### DSML Test with Langchain
-This hands-on test project using LangChain, a framework for building LLM (Large Language Model) applications. It demonstrates how to connect language models with tools like memory, prompts, and agents — useful for developing intelligent assistants and workflow automation.
+The hands-on test project using LangChain, a framework for building LLM (Large Language Model) applications. It demonstrates how to connect language models with tools like memory, prompts, and agents — useful for developing intelligent assistants and workflow automation.
 
 #### Machine Learning: Credit Card Fraud
 This project uses machine learning algorithms to detect fraudulent transactions in credit card data. It tackles imbalanced classification problems with techniques like SMOTE, Random Forest, Logistic Regression, and confusion matrix-based evaluation.
