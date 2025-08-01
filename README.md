@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Projects
+
 #### NLTK: Natural Language Tool Kit
 Working on project using NLTK, a powerful Python library for working with human language data (text). It
 covers tasks like tokenization, stopword removal, stemming, and named entity recognition (NER). Ideal for learning basic NLP (Natural Language Processing) techniques.
