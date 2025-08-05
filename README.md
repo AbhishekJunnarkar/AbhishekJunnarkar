@@ -9,7 +9,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Certifications
-![AWS Certified solutions Architect](https://www.credly.com/badges/dde499d1-7567-4526-b33b-b181184f2e84/linked_in_profile)
+
+<img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/9d55d8e0-a3be-4106-8a6b-7a3f87bd7e1b" />
+<img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/28959d3a-4511-43bb-8b8d-39df23ed1647" />
+<img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/fe3872b0-2b2a-4001-9329-6e0bf403f53d" />
+
+
+
 
 ### Projects
 
