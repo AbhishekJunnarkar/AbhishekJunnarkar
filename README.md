@@ -8,6 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Certifications
+![AWS Certified solutions Architect](https://www.credly.com/badges/dde499d1-7567-4526-b33b-b181184f2e84/linked_in_profile)
+
 ### Projects
 
 #### NLTK: Natural Language Tool Kit
