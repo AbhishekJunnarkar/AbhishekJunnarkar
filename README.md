@@ -2,22 +2,26 @@
 
 ## Hi there! Welcome to my Data Science and Machine learning Projects Collection 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekJunnarkar&show_icons=true&theme=prussian)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekJunnarkar&show_icons=true&theme=prussian)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJunnarkar&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekJunnarkar&layout=donut)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJunnarkar&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekJunnarkar)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Certifications
 
+### Certifications
+<img width="364" height="374" alt="Certificate-IITD" src="https://github.com/user-attachments/assets/530e92d4-c7f3-4555-b165-4b2c85489357" />
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/9d55d8e0-a3be-4106-8a6b-7a3f87bd7e1b" />
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/28959d3a-4511-43bb-8b8d-39df23ed1647" />
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/fe3872b0-2b2a-4001-9329-6e0bf403f53d" />
 
 
-### Exciting News! Starting October 2025, IIT Delhi Alumni Group deals with 5 ML Projects Every Month!
+
+
+
+### Exciting News! Starting October 2025, IIT Delhi Alumni Group ships minimum 5 ML Projects Every Month!
 
 ### ML Projects
 
