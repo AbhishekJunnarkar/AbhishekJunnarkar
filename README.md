@@ -17,8 +17,7 @@
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/fe3872b0-2b2a-4001-9329-6e0bf403f53d" />
 
 
-
-### Exciting News! Starting October 2025, IIT Delhi Alumni Group Tackles minimum 5 ML Projects Every Month! Scroll down for project details below..
+### Exciting News! Starting October 2025, IIT Delhi Alumni Group deals with 5 ML Projects Every Month!
 
 ### ML Projects
 
