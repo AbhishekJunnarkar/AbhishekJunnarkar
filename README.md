@@ -15,7 +15,6 @@
 <img width="364" height="374" alt="Certificate-IITD" src="https://github.com/user-attachments/assets/530e92d4-c7f3-4555-b165-4b2c85489357" />
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/9d55d8e0-a3be-4106-8a6b-7a3f87bd7e1b" />
 <img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/28959d3a-4511-43bb-8b8d-39df23ed1647" />
-<img width="182" height="187" alt="image" src="https://github.com/user-attachments/assets/fe3872b0-2b2a-4001-9329-6e0bf403f53d" />
 
 
 
