@@ -1,6 +1,6 @@
 # <span style="font-family: 'Lucida Console';">Abhishek Junnarkar</span>
 
-## Hi there! Welcome to my Data Science and Machine learning Projects Collection 
+## Hi there! Welcome to my Data Science and Machine Learning Projects Collection 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekJunnarkar&show_icons=true&theme=prussian)   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJunnarkar&theme=tokyonight)
